@@ -1,0 +1,54 @@
+.main{
+    background-color: white;
+    width: 350px;
+    margin: auto;
+border-radius: 8px;
+box-shadow: 0px 0px 7px 2px #e1d8d8;
+
+}
+
+.main table{
+margin: auto;
+padding: 10px;
+}
+
+.main table tr th{
+margin-left:-50px ;
+ font-family: Arial, Helvetica, sans-serif;
+ margin-left: -20px;
+
+}
+.main table tr td, p{
+   padding: 6px;
+
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main .tbl{
+   margin-left: 20%;
+}
+.main .tbl table{
+ margin-top: -40px; 
+}
+.main .price{
+    margin-right: 48%;
+ 
+}
+.main .price table tr th{
+    color: red;
+}
+button{
+    padding: 7px 25px;
+    border: none;
+    border-radius: 20px;
+    background-image: linear-gradient(to right, rgb(0, 47, 255), rgb(80, 97, 242));
+    color: white;
+    font-weight: bold;
+}
+.main .btn {
+  margin-left: 40%;
+}
+.main .btn p{
+margin-top: -3px;
+margin-left: -12px;
+}
